@@ -1,6 +1,6 @@
 <header class="page-header">
 	<div class="ih-item circle effect right_to_left"> 
-                <div class="img"><img src="/img/icon.jpg" alt="img"></div>
+                <div class="img"><img src="/img/yaw.jpg" alt="img"></div>
         </div>
      <h1 class="project-name"> <a class="header-link" href="{{ site.baseurl }}/"> {{ site.title }}</a></h1>
      <!--<h3 style="font-weight: lighter;">a blog for <a class="header-link" href="http://canijustgo.com/" target="_blank">canijustgo.com</a></h3>-->
