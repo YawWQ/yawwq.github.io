@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Title
+title: 关于本帅
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://yawwq.github.io"><b>Moon</b></a> change.</center>
+<center><a href="http://yawwq.github.io"></a> Wubba lubba dub dubs</center>
 
 ## Features
 * Minimal, you can focus on your content
