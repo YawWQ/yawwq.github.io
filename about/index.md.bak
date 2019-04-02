@@ -1,37 +1,31 @@
 ---
 layout: page
-title: Title
+title: About me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://yawwq.github.io"><b>Moon</b></a> change.</center>
+<center><a href="http://yawwq.github.io"></a> Wubba lubba dub dubs</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## 关于本帅
+* 1.让我稍微想一想从哪里说起比较好。
+* 2.在发现哭会让人变丑之前，一直很容易哭。
+* 3.零零碎碎学过一些东西，有所谓证书的是古筝业余七级，国画业余八级。
+* 4.没有考到满级是因为，后来高考加分的政策取消了。
+* 5.从小学时开始用Photoshop，那会特爱叨这个，但没人理会我。
+* 6.也许是因为这个，现在有点觉得难以启齿。
+* 7.最近会拍一拍照片，但觉得很累，不想坚持的时候会把相机卖了。
+* 8.泛学虽然可耻，但使人心宽。
+* 9.书当然看得多了，以前总想看很多书然后炫耀，然后大家都会来喜欢我了。
+* 10.从虚荣走向沉默。
+* 11.在这里写blog，代码当然写了。
+* 12.计算机科学与技术。
+* 13.从C/C++入门编程，现在主要用JAVA。
+* 14.Web开发，请叫我全栈（全干）工程师。
+* 15.用Python/MATLAB做图像处理。
+* 16.用Qt和JFrame写过几个GUI小工具。
+* 17.这就是我本来该在背单词，结果写了一个寒假的代码的原因。
+* 18.最近在学习Redis，ZooKeeper，Docker，RabitMQ和Solr。
+* 19.
+* 20.学以致用，心有所安。书生意气，随您喜欢。
