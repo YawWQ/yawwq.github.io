@@ -32,15 +32,11 @@ Tomcat官网下载地址：http://apache.fayea.com/tomcat/
 
 1.把solr-5.5.0\server\solr-webapp目录下的webapp重命名为solr,并且复制到apache-tomcat-8.5.39\webapps目录下。
 
-![Smithsonian Image](https://yawwq.github.io/assets/img/solr配置过程&防踩坑指南\1.png)
-
 2.打开apache-tomcat-8.5.39\webapps\solr\WEB-INF\web.xml。消除SolrHome注释的配置并且修改,配置上自己的目录(如果目录不存在则新建)。
 
 这里路径是：E:\tomcat\solrHome，其中solrHome为新建空文件夹。
 
 注：如果是更高版本的solr，web.xml里会有<security-constraint>，需要手动注释掉，否则可能无法启动。solr5.5没有这个问题。
-
-![Smithsonian Image](https://yawwq.github.io/assets/img/solr配置过程&防踩坑指南\solr配置过程&防踩坑指南\2.png)
 
 3.在apache-tomcat-8.5.39\webapps\solr\WEB-INF\目下新建classes目录，把solr-5.5.0\server\resources目录下的log4j.properties放入这个目录。
 
