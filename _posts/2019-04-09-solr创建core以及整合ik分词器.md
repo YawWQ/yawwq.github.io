@@ -32,6 +32,8 @@ comments: true
 这个适用于solr5.5，其他版本的大家自己搜索一哈。一定要好好查一查，
 **有时配文件很多问题都是出在版本不匹配上面**。
 
+具体配置步骤：
+
 1. 将IKAnalyzer2012FF_u2.jar文件复制到tomcat目录webapps\solr5.5\WEB-INF\lib下
 
 2. 将IKAnalyzer.cfg.xml和stopword.dic复制到tomcat目录webapps\solr5.5\WEB-INF\classes下（classes文件前面文章说过，是由自己创建的）。
