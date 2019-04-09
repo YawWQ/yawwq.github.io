@@ -29,7 +29,8 @@ comments: true
 
 下载地址：http://files.cnblogs.com/files/qinxuanyu/ik%E5%88%86%E8%AF%8Dsolr5.x.rar
 
-这个适用于solr5.5，其他版本的大家自己搜索一哈。一定要好好查一查，有时配文件很多问题都是出在版本不匹配上面。
+这个适用于solr5.5，其他版本的大家自己搜索一哈。一定要好好查一查，
+**有时配文件很多问题都是出在版本不匹配上面**。
 
 1. 将IKAnalyzer2012FF_u2.jar文件复制到tomcat目录webapps\solr5.5\WEB-INF\lib下
 
