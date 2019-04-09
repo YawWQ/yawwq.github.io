@@ -34,9 +34,9 @@ comments: true
 
 具体配置步骤：
 
-1. 将IKAnalyzer2012FF_u2.jar文件复制到tomcat目录webapps\solr5.5\WEB-INF\lib下
+1. 将IKAnalyzer2012FF_u2.jar文件复制到tomcat目录webapps\solr\WEB-INF\lib下
 
-2. 将IKAnalyzer.cfg.xml和stopword.dic复制到tomcat目录webapps\solr5.5\WEB-INF\classes下（classes文件前面文章说过，是由自己创建的）。
+2. 将IKAnalyzer.cfg.xml和stopword.dic复制到tomcat目录webapps\solr\WEB-INF\classes下（classes文件前面文章说过，是由自己创建的）。
 
 3. mycore\conf目录下managed-schema文件，在文件中增加如下节点：
 
