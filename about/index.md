@@ -24,7 +24,7 @@ comments: false
 * 13.从C/C++入门编程，现在主要用JAVA。
 * 14.Web开发，请叫我全栈（全干）工程师。
 * 15.也经常用Qt或JFrame给自己写些小工具，比如背单词。
-* 16.只是代码写完好久了，单词也没有背。
+* 16.虽说代码写完好久了，单词也没有背。
 * 17.Python写出来的高斯模糊，和PS里的手感不太一样。
 * 18.或者你喜欢听MATLAB弹的卡农吗？
 * 19.最近在学习：{interview questions site:stackoverflow.com}。
