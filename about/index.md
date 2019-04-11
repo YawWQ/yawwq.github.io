@@ -27,5 +27,5 @@ comments: false
 * 16.虽说代码写完好久了，单词也没有背。
 * 17.Python写出来的高斯模糊，和PS里的手感不太一样。
 * 18.或者你喜欢听MATLAB弹的卡农吗？
-* 19.最近在学习：{{interview questions site:stackoverflow.com}}。
+* 19.最近在学习：{interview questions site:stackoverflow.com}。
 * 20.学以致用，心有所安。书生意气，随您喜欢。
