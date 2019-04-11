@@ -8,7 +8,7 @@ comments: false
     
 <center><a href="http://yawwq.github.io"></a> Wubba lubba dub dubs</center>
 
-## 关于本帅
+## 关于本帅的20件事
 * 1.让我稍微想一想从哪里说起比较好。
 * 2.在发现哭会让人变丑之前，一直很容易哭。
 * 3.零零碎碎学过一些东西，有所谓证书的是古筝业余七级，国画业余八级。
@@ -20,12 +20,12 @@ comments: false
 * 9.书当然看得多了，以前总想看很多书然后炫耀，然后大家都会来喜欢我了。
 * 10.从虚荣走向沉默。
 * 11.在这里写blog，代码当然写了。
-* 12.计算机科学与技术。
+* 12.计算机科学与技术 & Advanced Computer Science。
 * 13.从C/C++入门编程，现在主要用JAVA。
 * 14.Web开发，请叫我全栈（全干）工程师。
-* 15.用Python/MATLAB做图像处理。
-* 16.用Qt和JFrame写些GUI小工具。
-* 17.这就是我本来该在背单词，结果写了一个寒假的代码的原因。
-* 18.最近在学习Redis，ZooKeeper，Docker，RabitMQ和Solr。
-* 19.想在这里更新一些关于编程的日记，偶尔也会记录其他的学习笔记。
+* 15.也经常用Qt或JFrame给自己写些小工具，比如背单词。
+* 16.只是代码写完好久了，单词也没有背。
+* 17.Python写出来的高斯模糊，和PS里的手感不太一样。
+* 18.或者你喜欢听MATLAB弹的卡农吗？
+* 19.最近在学习：{{interview questions site:stackoverflow.com}}。
 * 20.学以致用，心有所安。书生意气，随您喜欢。
