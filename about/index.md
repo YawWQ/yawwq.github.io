@@ -8,7 +8,7 @@ comments: false
     
 <center><a href="http://yawwq.github.io"></a> Wubba lubba dub dubs</center>
 
-## 关于本帅
+## 关于本帅的20件事
 * 1.让我稍微想一想从哪里说起比较好。
 * 2.在发现哭会让人变丑之前，一直很容易哭。
 * 3.零零碎碎学过一些东西，有所谓证书的是古筝业余七级，国画业余八级。
