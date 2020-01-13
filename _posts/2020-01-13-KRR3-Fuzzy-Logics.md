@@ -73,7 +73,3 @@ Very and Quite：
 
 ![FL](https://yawwq.github.io/assets/img/KRR-Fuzzy-Logics/Q2019.png)
 
-
-Reference:
-
-1. Marsland S. Machine learning: an algorithmic perspective[M]. Chapman and Hall/CRC, 2014.
