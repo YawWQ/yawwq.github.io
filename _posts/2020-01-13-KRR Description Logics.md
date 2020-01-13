@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KRR-Description-Logics"
+title:  "KRR Description Logics"
 date:   2020-01-13"
 excerpt: "Description Logics"
 tag:
@@ -19,23 +19,28 @@ comments: false
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/1.png)
 
+
 ### 1.2 Define something：
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/2.png)
+
 
 ### 1.3 Satisfied by everying, or the empty concept：
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/3.png)
 
+
 ### 1.4 关于.符号表示成员关系（任意）：
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/4.png)
+
 
 ### 1.5 关于.符号表示成员关系（存在）：
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/5.png)
 
-## 考题
+
+## 2 考题
 
 ### 2008:
 
@@ -46,6 +51,7 @@ comments: false
 （个人觉得yellow blue 那里应该用or也就是disjunction）
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2008.png)
+
 
 ### 2009:
 
@@ -59,6 +65,7 @@ comments: false
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2009.png)
 
+
 ### 2011:
 
 1. disjunction/conjunction/属于
@@ -67,11 +74,13 @@ comments: false
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2011.png)
 
+
 ### 2012:
 
 1. disjunction/conjunction/属于/成员
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2012.png)
+
 
 ### 2013:
 
@@ -82,6 +91,7 @@ comments: false
 3. 定义/conjunction/成员/universal
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2013.png)
+
 
 ### 2017:
 
@@ -94,6 +104,7 @@ comments: false
 4. 属于/成员
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2017.png)
+
 
 ### 2018:
 
@@ -108,6 +119,7 @@ comments: false
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2018-1.png)
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2018-3.png)
+
 
 ### 2019:
 
