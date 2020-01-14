@@ -40,9 +40,7 @@ comments: false
 
 ### 2012：
 
-![PTL](https://yawwq.github.io/assets/img/KRR-PTL/Q2012-1.png)
-
-![PTL](https://yawwq.github.io/assets/img/KRR-PTL/Q2012-2.png)
+![PTL](https://yawwq.github.io/assets/img/KRR-PTL/Q2012.png)
 
 
 ### 2013:
