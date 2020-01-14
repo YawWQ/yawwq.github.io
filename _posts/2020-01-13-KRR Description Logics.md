@@ -118,7 +118,7 @@ comments: false
 
 ![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2018-1.png)
 
-![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2018-3.png)
+![DL](https://yawwq.github.io/assets/img/KRR-DL/Q2018-2.png)
 
 
 ### 2019:
