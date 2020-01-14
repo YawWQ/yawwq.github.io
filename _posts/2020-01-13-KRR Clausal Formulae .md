@@ -27,26 +27,26 @@ comments: false
 
 ### 2008：
 
-![CF](https://yawwq.github.io/assets/img/KRR-Prolog/Q2008.png)
+![CF](https://yawwq.github.io/assets/img/KRR-CF/Q2008.png)
 
 
 ### 2009：
 
-![CF](https://yawwq.github.io/assets/img/KRR-Prolog/Q2009.png)
+![CF](https://yawwq.github.io/assets/img/KRR-CF/Q2009.png)
 
 
 ### 2011：
 
-![CF](https://yawwq.github.io/assets/img/KRR-Prolog/Q2011.png)
+![CF](https://yawwq.github.io/assets/img/KRR-CF/Q2011.png)
 
 
 ### 2012：
 
-![CF](https://yawwq.github.io/assets/img/KRR-Prolog/Q2012-1.png)
+![CF](https://yawwq.github.io/assets/img/KRR-CF/Q2012-1.png)
 
-![CF](https://yawwq.github.io/assets/img/KRR-Prolog/Q2012-2.png)
+![CF](https://yawwq.github.io/assets/img/KRR-CF/Q2012-2.png)
 
 
 ### 2019:
 
-![CF](https://yawwq.github.io/assets/img/KRR-Prolog/Q2019.png)
+![CF](https://yawwq.github.io/assets/img/KRR-CF/Q2019.png)
