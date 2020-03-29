@@ -11,7 +11,7 @@ comments: false
 ## 关于本帅的20件事
 * 1.Bachelor of Computer Science
 
-* 2.Bachelor of Computer Science
+* 2.Master of Eating Food and Playing Computer Games (?
 
 * 3.之前写最多的是Java后端，现在在深度学习。
 
