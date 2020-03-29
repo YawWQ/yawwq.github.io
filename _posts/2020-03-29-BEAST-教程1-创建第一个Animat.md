@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "BEAST 教程0 代码说明"
+title:  "BEAST 教程1 创建第一个Animat"
 date:   2020-03-29"
-excerpt: "对BEAST代码风格的介绍"
+excerpt: "创建简单的Animat显示在仿真环境中"
 tag:
 - 进化学习
 - 机器学习
