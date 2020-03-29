@@ -271,6 +271,17 @@ BeamSensor从特定点投射一定角度范围和半径的射线，范围为0的
     
 这样旧的匹配功能将被删除然后被替代。
 
+
+# BEAST教程索引
+
+[BEAST 教程0 代码说明](https://yawwq.github.io/BEAST-%E6%95%99%E7%A8%8B0-%E4%BB%A3%E7%A0%81%E8%AF%B4%E6%98%8E/)
+
+[BEAST 教程1 创建第一个Animat](https://yawwq.github.io/BEAST-%E6%95%99%E7%A8%8B1-%E5%88%9B%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AAAnimat/)
+
+[BEAST 教程2 添加Object和交互式Animat](https://yawwq.github.io/BEAST-%E6%95%99%E7%A8%8B2-%E6%B7%BB%E5%8A%A0Object%E5%92%8C%E4%BA%A4%E4%BA%92%E5%BC%8FAnimat/)
+
+[BEAST 教程3 引入遗传算法](https://yawwq.github.io/BEAST-%E6%95%99%E7%A8%8B3-%E5%BC%95%E5%85%A5%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95/)
+
 # Reference
 
 https://minerva.leeds.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_505438_1&content_id=_6865832_1&mode=reset
