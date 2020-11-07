@@ -6,18 +6,18 @@ date: 2019-04-03
 comments: false
 ---
     
-<center><a href="http://yawwq.github.io"></a> San Check Please </center>
+<center><a href="http://yawwq.github.io"></a> SAN CHECK PLZ</center>
 
 ## 关于本帅的20件事
 * 1.Bachelor of Computer Science
 
-* 2.Master of Eating Food and Playing Computer Games (?
+* 2.Master of Eating Food and Playing Computer Games
 
-* 3.之前写最多的是Java后端，现在在深度学习。
+* 3.有时候就特别容易困，必须不停喝咖啡。
 
 * 4.他们说用Python的看不起用Java的啊，用图形界面不用命令智商不够用吗。
 
-* 5.Vim和Emacs吵个不停啦，还天天骂Subline的智障吗。
+* 5.（空）
 
 * 6.（空）
 
