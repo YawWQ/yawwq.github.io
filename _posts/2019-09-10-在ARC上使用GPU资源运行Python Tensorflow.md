@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "在ARC上使用GPU资源运行Python Tensorflow (University of Leeds)"
-date:   2020-04-10"
-excerpt: "ARC3, part of the High Performance Computing facilities at the University of Leeds, UK"
+title:  "在ARC上使用GPU资源运行Python Tensorflow"
+date:   2019-09-10"
+excerpt: "TensorFlow and ARC3"
 tag:
 - ARC
 - Linux
@@ -65,7 +65,7 @@ comments: false
 
 ![FileSystem](https://yawwq.github.io/assets/img/ARC/filesystem.png)
 
-所以我们需要指定在nobackup下创建虚拟环境，虽然要注意**unused files are expired after 90 days**（但那时我应该已经不在学校了）：
+所以我们需要指定在nobackup下创建虚拟环境，：
 
     conda create -p /nobackup/username/envname python=3.6
     
@@ -87,11 +87,11 @@ comments: false
 
 可以把bash文件提交给gpu node运行，也可以用qrsh命令直接申请一下session，这里以后者为例。
 
-ARC3中有两个版本的GPU，一个是k80，一个是p100，这里和官网一样以k80为例：
+ARC3有不同版本的GPU，一个是k80，一个是p100，好像还有v100，这里和官网一样以k80为例：
 
     $ qrsh -l h_rt=2:0:0,coproc_k80=1 -pty y bash
     
-其中h_rt=2:0:0是指申请两个小时的session，可以增加，但是增加的话，申请通过的概率将变小（真小气呀）。
+其中h_rt=2:0:0是指申请两个小时的session，可以增加，但是增加的话，申请通过的概率将变小。
 
 详细见
 [coproc_k80](https://arc.leeds.ac.uk/?s=coproc_k80)
